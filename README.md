@@ -4,8 +4,7 @@ A sophisticated Keeper App built with React JS, focusing on modern React concept
 
 ## Deployed Application
 
-*   **Netlify:** [Link to your deployed Netlify app - ADD LATER]
-
+*   **Netlify:** [https://note-keepe.netlify.app/]
 ## Features
 
 *   **Create Notes:** Users can add new notes with a title and content.
